@@ -196,3 +196,19 @@ https://pjreddie.com/yolo/.
 ### YOEO — You Only Encode Once
 
 [YOEO](https://github.com/bit-bots/YOEO) extends this repo with the ability to train an additional semantic segmentation decoder. The lightweight example model is mainly targeted towards embedded real-time applications.
+
+
+
+## VisDrone
+
+准备：
+
+1. 在data的VisDrone文件夹手动下载数据集并解压，
+
+![目录](./md_img/屏幕截图 2022-05-02 235000.jpg)
+
+2. 运行visdrone_download.py
+
+2. 训练使用  -d config/VisDrone.data选择
+
+   
