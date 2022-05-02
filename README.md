@@ -209,6 +209,6 @@ https://pjreddie.com/yolo/.
 
 2. 运行visdrone_download.py
 
-2. 训练使用  -d config/VisDrone.data选择
+2. 训练使用  -d config/VisDrone.data选项
 
    
