@@ -16,3 +16,4 @@ checkpoints/
 logs/
 
 .python-version
+.idea
